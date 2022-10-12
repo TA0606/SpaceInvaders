@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\構造体">
+      <UniqueIdentifier>{36e1fb72-feba-4b61-80a1-339d7b3e032e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\弾">
+      <UniqueIdentifier>{6c59fb8b-4ade-4109-9043-b2556c10446e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\ユーティリティ">
+      <UniqueIdentifier>{056a822c-4c22-4735-bfa5-a2229514e827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\メイン">
+      <UniqueIdentifier>{2117eaf1-f036-4ba4-8539-44593b3c9915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\トーチカ">
+      <UniqueIdentifier>{e139a652-a7b4-489a-87ec-2597c3742ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\シーケンス">
+      <UniqueIdentifier>{3dded441-5dc5-4a73-a90b-c84079470bbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\サウンド">
+      <UniqueIdentifier>{661a5a7c-8bba-4cd7-a0c1-949bd79576b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\弾\作成">
+      <UniqueIdentifier>{afd47ca5-4130-4a2c-8b4a-795697a117e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\弾\ベース">
+      <UniqueIdentifier>{54c824bf-7ea2-4c10-b0e6-61c33d8940f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\構造体">
+      <UniqueIdentifier>{f0a5fb19-af41-4bd8-b2c6-0a7d8ae8b938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\弾">
+      <UniqueIdentifier>{c3a43704-bd32-4013-817b-98256ea224a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\ユーティリティ">
+      <UniqueIdentifier>{eb7180c8-f8b3-4832-b374-74c0af846fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\トーチカ">
+      <UniqueIdentifier>{ef13f079-dd4f-437e-93e0-011dac6d870b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\シーケンス">
+      <UniqueIdentifier>{3bbdedda-8029-4f4a-9471-57cdd68b3665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\サウンド">
+      <UniqueIdentifier>{1a86ade5-4c43-4419-818c-8f82af07b6f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\キャラクター">
+      <UniqueIdentifier>{16f8b287-87dd-479b-baff-a53eafc7da5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\キャラクター">
+      <UniqueIdentifier>{2f2eb718-3efe-4138-9c72-a4f496ef1ebd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\キャラクター\作成">
+      <UniqueIdentifier>{05354d3f-8016-4b09-832f-fc965fe35677}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\キャラクター\ベース">
+      <UniqueIdentifier>{2be6b45e-f1d9-42dc-9013-f3136097874d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\弾\作成">
+      <UniqueIdentifier>{9ca0fb09-50a3-4987-acfe-a321f303a90b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\弾\ベース">
+      <UniqueIdentifier>{66801c37-42ff-4cfc-8b0a-574c2498b4b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\シーケンス\ベース">
+      <UniqueIdentifier>{e9f7c52b-26c5-4619-be74-7ebef6240662}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\キャラクター\作成">
+      <UniqueIdentifier>{4c243e93-76d1-42e3-b2f9-438cdb0992a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\キャラクター\ベース">
+      <UniqueIdentifier>{5f02fa87-9163-4483-a57b-7e0ebc679315}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ImgData.cpp">
+      <Filter>ソース ファイル\構造体</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletManager.cpp">
+      <Filter>ソース ファイル\弾</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroBullet.cpp">
+      <Filter>ソース ファイル\弾</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet.cpp">
+      <Filter>ソース ファイル\弾</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>ソース ファイル\弾\ベース</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletCreator.cpp">
+      <Filter>ソース ファイル\弾\作成</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>ソース ファイル\ユーティリティ</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>ソース ファイル\メイン</Filter>
+    </ClCompile>
+    <ClCompile Include="Pillbox.cpp">
+      <Filter>ソース ファイル\トーチカ</Filter>
+    </ClCompile>
+    <ClCompile Include="Clear.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="Ending.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="SequenceManager.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="StageTitle.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>ソース ファイル\シーケンス</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>ソース ファイル\サウンド</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyTroops.cpp">
+      <Filter>ソース ファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero.cpp">
+      <Filter>ソース ファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="TroopMember_A.cpp">
+      <Filter>ソース ファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="TroopMember_B.cpp">
+      <Filter>ソース ファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="TroopMember_C.cpp">
+      <Filter>ソース ファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="UFO.cpp">
+      <Filter>ソース ファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>ソース ファイル\キャラクター\ベース</Filter>
+    </ClCompile>
+    <ClCompile Include="TroopMember.cpp">
+      <Filter>ソース ファイル\キャラクター\ベース</Filter>
+    </ClCompile>
+    <ClCompile Include="TroopMemberCreator.cpp">
+      <Filter>ソース ファイル\キャラクター\作成</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CharacterData.h">
+      <Filter>ヘッダー ファイル\構造体</Filter>
+    </ClInclude>
+    <ClInclude Include="ImgData.h">
+      <Filter>ヘッダー ファイル\構造体</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>ヘッダー ファイル\構造体</Filter>
+    </ClInclude>
+    <ClInclude Include="RectEx.h">
+      <Filter>ヘッダー ファイル\構造体</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletManager.h">
+      <Filter>ヘッダー ファイル\弾</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet.h">
+      <Filter>ヘッダー ファイル\弾</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroBullet.h">
+      <Filter>ヘッダー ファイル\弾</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>ヘッダー ファイル\弾\ベース</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletCreator.h">
+      <Filter>ヘッダー ファイル\弾\作成</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>ヘッダー ファイル\ユーティリティ</Filter>
+    </ClInclude>
+    <ClInclude Include="Pillbox.h">
+      <Filter>ヘッダー ファイル\トーチカ</Filter>
+    </ClInclude>
+    <ClInclude Include="Clear.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="Ending.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="SequenceManager.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="StageTitle.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>ヘッダー ファイル\シーケンス</Filter>
+    </ClInclude>
+    <ClInclude Include="Sequence.h">
+      <Filter>ヘッダー ファイル\シーケンス\ベース</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>ヘッダー ファイル\サウンド</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>ヘッダー ファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyTroops.h">
+      <Filter>ヘッダー ファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="TroopMember_A.h">
+      <Filter>ヘッダー ファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="TroopMember_B.h">
+      <Filter>ヘッダー ファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="TroopMember_C.h">
+      <Filter>ヘッダー ファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="UFO.h">
+      <Filter>ヘッダー ファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>ヘッダー ファイル\キャラクター\ベース</Filter>
+    </ClInclude>
+    <ClInclude Include="TroopMember.h">
+      <Filter>ヘッダー ファイル\キャラクター\ベース</Filter>
+    </ClInclude>
+    <ClInclude Include="TroopMemberCreator.h">
+      <Filter>ヘッダー ファイル\キャラクター\作成</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
